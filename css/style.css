@@ -128,7 +128,7 @@ a:hover {
 .hero_area {
     background: url(/bk-1-2.jpg) no-repeat;
     background-size: cover;
-    height: calc(75vh - 0px);
+    height: calc(80vh - 0px);
 }
 
 .hero_area_heading {
@@ -184,18 +184,11 @@ a:hover {
 .form-select{
     border: none;
 }
-@media (max-width:1400px) {
-    .hero_area {
-        background: url(/bk-1-2.jpg) no-repeat;
-        background-size: cover;
-        height: calc(40vh - 0px);
-    }
-}
 @media (max-width:1200px) {
     .hero_area {
         background: url(/bk-1-2.jpg) no-repeat;
         background-size: cover;
-        height: calc(40vh - 0px);
+        height: calc(45vh - 0px);
     }
 }
 
@@ -211,7 +204,7 @@ a:hover {
     .hero_area {
         background: url(/bk-1-2.jpg) no-repeat;
         background-size: cover;
-        height: calc(37vh - 0px);
+        height: calc(40vh - 0px);
     }
 }
 
@@ -768,17 +761,22 @@ a {
 }
 @media (max-width:1200px){
     .newsletter_bg{
-        height: calc(40vh - 0px);
+        height: calc(30vh - 0px);
     }
 }
 @media (max-width:991px){
     .newsletter_bg{
-        height: calc(40vh - 0px);
+        height: calc(33vh - 0px);
     }
 }
 @media (max-width:767px){
     .newsletter_bg{
-        height: calc(35vh - 0px);
+        height: calc(30vh - 0px);
+    }
+}
+@media (max-width:576px){
+    .newsletter_bg{
+        height: calc(28vh - 0px);
     }
 }
 /* footer page start */
