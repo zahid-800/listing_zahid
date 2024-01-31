@@ -503,12 +503,12 @@ a {
     }
     .popular_list_card img {
         height: 240px;
-        width:250px ;
+        width:360px ;
        
     }
     
     .popular_list_card {
-        width: 250px;
+        width: 360px;
         height: 440px;
         background-color: rgb(255, 255, 255);
     }
