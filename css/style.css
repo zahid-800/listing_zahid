@@ -516,23 +516,6 @@ a {
     }
   
 }
-@media (max-width:991px) {
-    .popular_resposive{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-    }
-    .popular_list_card img {
-        height: 240px;
-        width:320px ;
-       
-    }
-    
-    .popular_list_card {
-        width: 320px;
-        height: 400px;
-        background-color: rgb(255, 255, 255);
-    }
-}
 @media (max-width:767px) {
     .popular_resposive{
         display: grid;
@@ -549,6 +532,10 @@ a {
         height: 400px;
         background-color: rgb(255, 255, 255);
     }
+    .popular_card_responsive{
+        padding-left:0rem;
+    }
+  
 }
 @media (max-width:576px) {
     .popular_resposive{
