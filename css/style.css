@@ -509,7 +509,7 @@ a {
     
     .popular_list_card {
         width: 240px;
-        height: 440px;
+        height: 420px;
         background-color: rgb(255, 255, 255);
     }
     .popular_card_responsive{
@@ -843,7 +843,7 @@ a {
     background-color: #1818d4;
     position: fixed;
     right: 10px;
-    top: 500px;
+    top: 490px;
     border-radius: 50%;
 }
 .up_btn .fa-chevron-up{
