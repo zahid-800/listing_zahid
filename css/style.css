@@ -814,7 +814,7 @@ a {
     align-items: center;
     background-color: #1818d4;
     position: fixed;
-    right: 30px;
+    right: 10px;
     top: 500px;
     border-radius: 50%;
 }
@@ -834,7 +834,7 @@ a {
     align-items: center;
     background-color: #1818d4;
     position: fixed;
-    right: 30px;
+    right: 10px;
     top: 550px;
     border-radius: 50%;
 }
