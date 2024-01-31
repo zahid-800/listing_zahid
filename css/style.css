@@ -184,11 +184,19 @@ a:hover {
 .form-select{
     border: none;
 }
+@media (max-width:1400px) {
+    .hero_area {
+        background: url(/bk-1-2.jpg) no-repeat;
+        background-size: cover;
+        height: calc(60vh - 0px);
+    }
+}
+
 @media (max-width:1200px) {
     .hero_area {
         background: url(/bk-1-2.jpg) no-repeat;
         background-size: cover;
-        height: calc(45vh - 0px);
+        height: calc(65vh - 0px);
     }
 }
 
@@ -204,22 +212,15 @@ a:hover {
     .hero_area {
         background: url(/bk-1-2.jpg) no-repeat;
         background-size: cover;
-        height: calc(40vh - 0px);
+        height: calc(60vh - 0px);
     }
 }
 
-@media (max-width:768px) {
-    .hero_area {
-        background: url(/bk-1-2.jpg) no-repeat;
-        background-size: cover;
-        height: calc(40vh - 0px);
-    }
-}
 @media (max-width:767px) {
     .hero_area {
         background: url(/bk-1-2.jpg) no-repeat;
         background-size: cover;
-        height: calc(55vh - 0px);
+        height: calc(80vh - 0px);
     }
 }
 @media (max-width:576px) {
@@ -234,7 +235,7 @@ a:hover {
     .hero_area {
         background: url(/bk-1-2.jpg) no-repeat;
         background-size: cover;
-        height: calc(45vh - 0px);
+        height: calc(75vh - 0px);
     }
 }
 
@@ -365,7 +366,13 @@ a {
         justify-content: center;
         align-items: center;
     }
-
+  .r{
+        padding-left: 1.7rem;
+        
+    }
+    .l_c_card{
+        padding-top: 1rem;
+    }
 }
 
 @media (max-width:300px) {
@@ -537,6 +544,9 @@ a {
         width: 250px;
         height: 440px;
         background-color: rgb(255, 255, 255);
+    }
+    .popular_card_responsive{
+        padding-left:3rem;
     }
   
 }
