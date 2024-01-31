@@ -698,7 +698,7 @@ a {
 
 /* News letter page start */
 .newsletter_bg{
-    background: url(./bk-1.jpg) no-repeat;
+    background: url(../bk-1.jpg) no-repeat;
     background-size: cover;
     height: calc(50vh - 0px);
 }
