@@ -498,7 +498,7 @@ a {
 @media (max-width:991px) {
     .popular_resposive{
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
     .popular_list_card img {
         height: 240px;
@@ -687,7 +687,6 @@ a {
 .newsletter_bg{
     background: url(../bk-1.jpg) no-repeat;
     background-size: cover;
-    height: calc(50vh - 0px);
 }
 .newsletter_heading{
     text-align: center;
@@ -719,7 +718,6 @@ a {
 .newsletter_searchbox{
     display: flex;
     justify-content: center;
-
     align-items: center;
 }
 
