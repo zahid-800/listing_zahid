@@ -357,6 +357,7 @@ a {
 }
 
 
+
 /* popular listing page start */
 .popular_bg {
     background: #f3f1f1;
@@ -512,10 +513,11 @@ a {
         background-color: rgb(255, 255, 255);
     }
     .popular_card_responsive{
-        padding-left:1.5rem;
+        padding-left: 1.5rem;
     }
   
 }
+
 @media (max-width:767px) {
     .popular_resposive{
         display: grid;
@@ -533,9 +535,8 @@ a {
         background-color: rgb(255, 255, 255);
     }
     .popular_card_responsive{
-        padding-left:0rem;
+        padding-left: 0rem;
     }
-  
 }
 @media (max-width:576px) {
     .popular_resposive{
@@ -555,6 +556,7 @@ a {
     }
    
 }
+
 
 
 
