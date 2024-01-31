@@ -126,7 +126,7 @@ a:hover {
 
 /* hero area page start */
 .hero_area {
-    background: url(/bk-1-2.jpg) no-repeat;
+    background: url(../bk-1-2.jpg) no-repeat;
     background-size: cover;
     height: calc(80vh - 0px);
 }
@@ -722,7 +722,7 @@ a {
 
 /* News letter page start */
 .newsletter_bg{
-    background: url(/bk-1.jpg) no-repeat;
+    background: url(./bk-1.jpg) no-repeat;
     background-size: cover;
     height: calc(50vh - 0px);
 }
